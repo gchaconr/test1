@@ -1,3 +1,5 @@
+NEW LINE ADDEDEDDEDEDEDED
+
 nameserver 8.8.8.8
 No need for proxies
 ---Recreating SD card folder
